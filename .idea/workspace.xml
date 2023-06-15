@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5692b7e6-d9ee-4d8e-8f40-c45e28a5c4a8" name="Changes" comment="" />
+    <list default="true" id="5692b7e6-d9ee-4d8e-8f40-c45e28a5c4a8" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,7 +42,11 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "17",
+    "last_opened_file_path": "E:/IDEA/test01",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
     "vue.rearranger.settings.migration": "true"
   }
@@ -77,6 +83,9 @@
       <option name="presentableId" value="Default" />
       <updated>1676686089923</updated>
       <workItem from="1676686091211" duration="55000" />
+      <workItem from="1676688881520" duration="419000" />
+      <workItem from="1678177824143" duration="8000" />
+      <workItem from="1678193568788" duration="580000" />
     </task>
     <servers />
   </component>
